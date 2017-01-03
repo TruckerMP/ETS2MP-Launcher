@@ -1,0 +1,4 @@
+D:\Coding\Projekte\ETS2MP Launcher\obj\x64\Debug\Launcher.csprojResolveAssemblyReference.cache
+D:\Coding\Projekte\ETS2MP Launcher\obj\x64\Debug\mainwindow.baml
+D:\Coding\Projekte\ETS2MP Launcher\obj\x64\Debug\mainwindow.g.cs
+D:\Coding\Projekte\ETS2MP Launcher\obj\x64\Debug\Launcher_MarkupCompile.cache
